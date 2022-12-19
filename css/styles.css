@@ -1,0 +1,67 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #2e2f42;
+}
+
+.header-logo {
+  font-family: "Raleway", sans-serif;
+  color: #4d5ae5;
+}
+
+.header-logo-studio {
+  font-family: "Raleway", sans-serif;
+  font-weight: 800px;
+  font-size: 18px;
+  line-height: 1.16;
+  color: #2e2f42;
+}
+
+.header-nav-list {
+  font-weight: 700px;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #2e2f42;
+}
+
+.header-tel {
+  font-weight: 400px;
+  font-size: 16px;
+}
+
+.header-email {
+  font-weight: 400px;
+  font-size: 16px;
+}
+
+.hero {
+  background-color: #2e2f42;
+}
+
+.hero-title {
+  color: #ffffff;
+}
+
+.hero-btn {
+  background-color: #4d5ae5;
+  color: #ffffff;
+  font-size: 16px;
+  line-height: 1.18;
+  cursor: pointer;
+}
+
+hero-btn:hover {
+  background-color: #404bbf;
+}
+
+.visually-hidden {
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  border: 0;
+  padding: 0;
+  clip: 0 0 0 0;
+  clip-path-inset: 50%;
+  margin: -1px;
+}
