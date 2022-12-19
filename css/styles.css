@@ -104,6 +104,49 @@ body {
   margin: -1px;
 }
 
+.list-work {
+  font-size: 16px;
+  line-height: calc (24/16);
+  color: #434455;
+}
+
+.title-work {
+  font-style: 500;
+  font-size: 20px;
+  line-height: calc (24/20);
+  color: #2e2f42;
+}
+
+.title-description {
+  font-style: 500;
+  font-size: 20px;
+  line-height: calc (24/20);
+  color: #2e2f42;
+}
+
+.team {
+  background-color: #f4f4fd;
+}
+
+.title-team {
+  font-weight: 600;
+  font-size: 36px;
+  line-height: calc(40 / 36);
+  text-align: center;
+}
+
+.title-name {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: calc(24 / 20);
+}
+
+.position-team {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: calc (24/16);
+}
+
 .footer {
   background-color: #2e2f42;
 }
