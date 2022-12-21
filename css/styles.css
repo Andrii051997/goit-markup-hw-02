@@ -13,12 +13,9 @@
 body {
   font-family: "Roboto", sans-serif;
   color: var(--general-font);
-  background-color: var(--background-color);
+  background-color: var(--color-white);
 }
 
-.header {
-  background-color: var(--color-header);
-}
 .header-logo {
   text-transform: uppercase;
   font-family: "Raleway", sans-serif;
@@ -96,8 +93,8 @@ body {
   font-weight: 500;
   font-size: 16px;
   line-height: calc(24 / 16);
-  background-color: var(--dark-blue);
-  color: var(--color-white);
+  background-color: var(--background-color-btn);
+  color: var(--dark-blue);
   border: none;
   cursor: pointer;
 }
